@@ -1,0 +1,59 @@
+body{
+  font-family: 'Darker Grotesque', sans-serif;
+}
+
+a, a:hover{
+  color: white
+}
+
+#picture-header {
+  background-image: url('/images/bike-background.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.card {
+ margin-bottom: 20px;
+}
+.basket-img{
+  width: 170px;
+}
+
+h1{ 
+  margin: 20px;
+  margin-top: 40px;
+}
+
+#topLine {
+
+  margin-left: 40 px;
+  
+}
+
+#msg {
+  
+  color: red;
+  font-weight: solid;
+  margin: 20px;
+  font-style: italic;
+ 
+}
+/* .fa-arrows-rotate{
+  font-weight: 900 !important;
+} */
+
+#mea{
+  margin-bottom: 0px;
+  display: flex;
+  justify-content: center;
+}
+
+h2{
+  color: yellow;
+  font-weight: bold;
+  font-style: italic;
+  font-size:x-large;
+}
+
