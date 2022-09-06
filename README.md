@@ -6,11 +6,7 @@ Site de E-commerce
 <li>EJS</li>
 <li>Javascript</li>
 <li>Express.JS</li>
-<li>Architecture MVC</li>
 <li>Bootstrap</li>
-<li>Intégration d'une map</li>
-<li>Postman</li>
-<li>API Open Weather Map</li>
-<li>Mongo DB</li>
-<li>Librairie Leaflet</li>
+<li>Stripe</li>
+
 
