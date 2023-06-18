@@ -7,6 +7,4 @@ Site de E-commerce
 <li>Bootstrap</li>
 <li>Stripe</li>
 <br>
-<h3>Lien vers le site</h3>
-https://tarnof-bikeshop.herokuapp.com/
 
